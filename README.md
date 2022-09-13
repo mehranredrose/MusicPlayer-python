@@ -1,2 +1,2 @@
-# MusicPlayer-python
-a music player using Tkinter
+# Music Player with Python
+a Simple music player using Python Library Tkinter
